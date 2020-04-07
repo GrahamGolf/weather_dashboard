@@ -1,1 +1,26 @@
-body {background-color: purple;}
+body {background-color: gray}
+
+
+.green {
+    background-color: rgb(31, 136, 31);
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+}
