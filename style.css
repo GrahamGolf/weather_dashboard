@@ -24,3 +24,7 @@ body {background-color: gray}
     background-color: purple;
     color: white;
 }
+
+.forecastDay {
+    border: 1px solid purple;
+}
